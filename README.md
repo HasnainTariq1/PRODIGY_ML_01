@@ -7,6 +7,7 @@ This project implements a Linear Regression model to predict house prices based 
 
 
 Dataset
+
 The dataset contains information on house properties and their corresponding sale prices.
 
 Important features include:
